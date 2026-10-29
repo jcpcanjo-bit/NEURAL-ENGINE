@@ -1,0 +1,5 @@
+# Bibliotheken der Neural Engine. Bewusst ohne PyTorch und ohne TensorFlow.
+numpy>=2.1
+requests>=2.32
+geopy>=2.4
+pillow>=11.0
